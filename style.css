@@ -27,8 +27,8 @@ header {
 }
 
 .get-started {
-    display:inline;
-    /* float:right; */
+    /*display:inline;*/
+    float: right;
 }
 
 .get-started-login {
